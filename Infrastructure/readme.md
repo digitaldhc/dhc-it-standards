@@ -1,7 +1,7 @@
 ---
 title: Infrastructure standards
 description: >
-   A list of infrastructure standards at Dorset HealthCare.
+   A list of infrastructure standards at Dorset HealthCare
 created: 2020-06-29
 lastUpdated: 2024-08-09 14:30:00
 author: Andrew Harrison
