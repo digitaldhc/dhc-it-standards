@@ -15,11 +15,11 @@ These standards apply to all types of IT infrastructure.
 
 ## Security and privacy by design and default
 
-All infrastructure must be built and maintained in observance of (the principles of data protection by design and default)[https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/accountability-and-governance/data-protection-by-design-and-default/].
+All infrastructure must be built and maintained in observance of [the principles of data protection by design and default](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/accountability-and-governance/guide-to-accountability-and-governance/accountability-and-governance/data-protection-by-design-and-default/).
 
 ## Alignment with national architecture principles
 
-We align where possible with the (NHS national architecture principles)[https://digital.nhs.uk/developer/architecture/principles] and the (CDDO technology code of practice)[https://www.gov.uk/guidance/the-technology-code-of-practice].
+We align where possible with the [NHS national architecture principles](https://digital.nhs.uk/developer/architecture/principles) and the [CDDO technology code of practice](https://www.gov.uk/guidance/the-technology-code-of-practice).
 
 ## Cloud First
 
