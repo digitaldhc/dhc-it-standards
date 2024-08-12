@@ -1,6 +1,8 @@
+![Adoption flag](https://img.shields.io/badge/DHC%20adoption%20state-Unadopted-blue) ![Document flag](https://img.shields.io/badge/Document%20state-Draft-blue)
+
 # Dorset HealthCare IT standards
 
-Welcome to the Dorset HealthCare IT standards internet homepage. These standards are written in Markdown and managed as code, and inspired by a similar set of standards in use at [NHS England](https://github.com/nhsengland/it-standards).
+Welcome to the [Dorset HealthCare](https://www.dorsethealthcare.nhs.uk/) IT standards internet homepage. These standards are written in Markdown and managed as code, and inspired by a similar set of standards in use at [NHS England](https://github.com/nhsengland/it-standards).
 
 Our standards are built to relate to the operational requirements of the organisation as well as existing best practice, standards and policies across the public sector.
 
