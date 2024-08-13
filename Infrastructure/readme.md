@@ -44,7 +44,8 @@ It will not be permitted to have infrastructure that has no support from the man
 
 ## Other Standards
 
-* [Hosting standard](infrastructure/hosting/readme)
-* [Cloud Infrastructure](infrastructure/cloud/readme)
-* [Physical Infrastructure (on-premise, data-centre)](infrastructure/physical/readme)
-* [Network Infrastructure](infrastructure/networks)
+* [Hosting standard](https://github.com/digitaldhc/dhc-it-standards/tree/main/Infrastructure/hosting)
+* Cloud Infrastructure
+* [Physical Infrastructure (on-premise, data-centre)](https://github.com/digitaldhc/dhc-it-standards/blob/main/Infrastructure/physical/readme.md)
+* Data cabling
+* Network Infrastructure
