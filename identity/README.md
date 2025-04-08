@@ -1,7 +1,7 @@
 ---
 title: Identity and access management
 description: >
-   Identity and access management at Dorset HealthCare.
+   Identity and access management at Dorset HealthCare
 created: 2023-03-28
 lastUpdated: 2023-03-28
 author: Andrew Harrison

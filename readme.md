@@ -13,7 +13,7 @@ The list of currently published standards is as follows:
 * Applications
     * [Email integration](https://github.com/digitaldhc/dhc-it-standards/blob/main/applications/email-integration.md)
 * Identity
-    * [Identity and access management (not finished)](https://github.com/digitaldhc/dhc-it-standards/tree/main/identity)
+    * Identity and access management (not finished)
 * Infrastructure
     * [Common infrastructure standards](https://github.com/digitaldhc/dhc-it-standards/tree/main/Infrastructure)
     * [Hosting standard](https://github.com/digitaldhc/dhc-it-standards/tree/main/Infrastructure/hosting)
