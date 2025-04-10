@@ -9,7 +9,7 @@ author: Andrew Harrison
 
 ![Adoption flag](https://img.shields.io/badge/Adoption%20state-Unadopted-blue) ![Document flag](https://img.shields.io/badge/Document%20state-Draft-blue)
 
-# Identity and access management
+# Identity and access management standard
 
 There are several authentication providers in use within the organisation.
 
