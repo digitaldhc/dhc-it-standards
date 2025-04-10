@@ -1,4 +1,4 @@
-![Adoption flag](https://img.shields.io/badge/DHC%20adoption%20state-Unadopted-blue) ![Document flag](https://img.shields.io/badge/Document%20state-Draft-blue)
+![Adoption flag](https://img.shields.io/badge/Adoption%20state-Unadopted-blue) ![Document flag](https://img.shields.io/badge/Document%20state-Draft-blue)
 
 # Dorset HealthCare IT standards
 

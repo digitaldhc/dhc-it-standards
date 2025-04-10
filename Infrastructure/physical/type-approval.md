@@ -11,4 +11,7 @@ Depending on the proposed or envisaged use case we may further evaluate:
 * a [manufacturer disclosure statement (MDS2)](https://www.nema.org/standards/view/manufacturer-disclosure-statement-for-medical-device-security) (if present and applicable);
 * the manufacturer's stated position against standards like [DAPB0086 (the NHS Data Security and Protection Toolkit, commonly known as DSPT)](https://www.dsptoolkit.nhs.uk), [ISO/IEC 27001 (Information Security Management Systems)](https://www.iso.org/standard/27001) and [Cyber Essentials](https://www.ncsc.gov.uk/cyberessentials/overview).
 
+## What we are looking to assure
+
+
 Type approval may be requested through the usual digital change request process. Budget managers should avoid the purchase or letting of physical infrastructure or hardware that is not type approved as a connection may not be approved.
