@@ -24,10 +24,23 @@ The precise assurance process will depend on the technology and the proposed use
 * the manufacturer's approach to data portability and reuse (where data is collected).
 
 ## Outcomes
-We will offer the following outcomes:
+We will offer the following determinations:
 * approved (substantial assurance);
 * approved (limited assurance);
 * approved (with conditions);
 * refused.
 
-Type approval may be requested through the usual digital change request process. Budget managers should avoid the purchase or letting of physical infrastructure or hardware that is not type approved as a connection may not be approved.
+### Approved (substantial assurance)
+We have gained a substantial level of assurance from dialogue with the requester, manufacturer or vendor and/or evidence they have provided. We have no substantive concerns with the attachment of this physical infrastructure or hardware to the network. We may also find that there is _inherited assurance_ from certain certifications, vendors or use cases.
+
+### Approved (limited assurance)
+We have not gained a substantial level of assurance from the requester, manufacturer or vendor however given the type of physical infrastructure or hardware, or the use case in question, we are content that it be attached to the network.
+
+### Approved (with conditions)
+Regardless of the assurance gained, we are content that the physical infrastructure or hardware be attached to the network under the condition of specific provisos, to be dependent on the use case and other circumstances.
+
+### Refused
+We will not permit this physical infrastructure or hardware to be attached to the network. We may choose to amend this determination should we gain an improved level of assurance in the future.
+
+## How to request type approval
+Type approval may be requested through the usual digital change request process. Budget managers should avoid the purchase or letting of physical infrastructure or hardware that is not type approved as we may not permit a connection to the network.
