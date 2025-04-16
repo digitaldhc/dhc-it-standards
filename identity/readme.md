@@ -1,7 +1,7 @@
 ---
-title: Identity and access management
+title: Identity standard
 description: >
-   Identity and access management at Dorset HealthCare
+   How we think about identity at Dorset HealthCare
 created: 2023-03-28
 lastUpdated: 2025-04-08
 author: Andrew Harrison
@@ -9,7 +9,7 @@ author: Andrew Harrison
 
 ![Adoption flag](https://img.shields.io/badge/Adoption%20state-Unadopted-blue) ![Document flag](https://img.shields.io/badge/Document%20state-Draft-blue)
 
-# Identity and access management standard
+# Identity standard
 
 There are several authentication providers in use within the organisation.
 
