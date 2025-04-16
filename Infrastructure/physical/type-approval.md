@@ -31,16 +31,19 @@ We will offer the following determinations:
 * refused.
 
 ### Approved (substantial assurance)
-We have gained a substantial level of assurance from dialogue with the requester, manufacturer or vendor and/or evidence they have provided. We have no substantive concerns with the attachment of this physical infrastructure or hardware to the network. We may also find that there is _inherited assurance_ from certain certifications, vendors or use cases.
+We have gained a substantial level of assurance from dialogue with the requester, manufacturer or vendor and/or evidence they have provided. We have no substantive concerns with the attachment of the solution to the network. We may also find that there is _inherited assurance_ from certain certifications, vendors or use cases.
 
 ### Approved (limited assurance)
-We have not gained a substantial level of assurance from the requester, manufacturer or vendor however given the type of physical infrastructure or hardware, or the use case in question, we are content that it be attached to the network.
+We have not gained a substantial level of assurance from the requester, manufacturer or vendor however given the type of solution, or the use case in question, we are content that it be attached to the network.
 
 ### Approved (with conditions)
-Regardless of the assurance gained, we are content that the physical infrastructure or hardware be attached to the network under the condition of specific provisos, to be dependent on the use case and other circumstances.
+Regardless of the assurance gained, we are content that the solution be attached to the network under the condition of specific provisos, to be dependent on the use case and other circumstances.
 
 ### Refused
-We will not permit this physical infrastructure or hardware to be attached to the network. We may choose to amend this determination should we gain an improved level of assurance in the future.
+We will not permit the attachment of this solution to the network. We may choose to amend this determination should we gain an improved level of assurance in the future.
 
 ## How to request type approval
-Type approval may be requested through the usual digital change request process. Budget managers should avoid the purchase or letting of physical infrastructure or hardware that is not type approved as we may not permit a connection to the network.
+Type approval may be requested through the usual [digital change request process](https://doris.dhc.nhs.uk/support-centre/support-services/im-and-t/clinical-systems/clinical-systemsmanagement/clinical-system-change-process). Budget managers should avoid the purchase or letting of solutions that are not type approved as we may not permit a connection to the network.
+
+## How to see what is type-approved
+At the time of writing there have been no type approval evaluations. As we begin to determine these they will be published here or on an internal web page that is yet to be determined.
