@@ -20,7 +20,7 @@ The only datacentres approved for Trust IT infrastructure are those owned and op
 * sufficient HVAC and fire suppression is available;
 * access is limited to a pre-approved list of security cleared personnel.
 
-The Trust handles multiple classifications of data and all datacentres must be capable of hosting data at these classifications.
+The Trust handles multiple classifications of data and all datacentres must be capable of hosting data at these classifications. The Trust's approach to datacentre provision is described in the [hosting standard](../hosting/readme.md).
 
 ## Communications Equipment Rooms
 
@@ -31,9 +31,9 @@ Dorset HealthCare sites have designated CERs for the deployment of communication
 
 Ideally, the room should:
 
-* be locked and only accessible by pre-approved personnel;
+* be locked with a suitable suited key or central access control and only accessible by pre-approved personnel;
 * have a process for allowing pre-approved and logged access from vendors (e.g. BT for telecoms);
-* where necessary, have a filtered air-conditioning unit to prevent the build-up of dust and debris in expensive communications equipment;
+* where necessary, have a filtered air-conditioning unit to prevent the build-up of dust and debris in communications equipment;
 * be used solely for the siting of communications equipment and not used for storage, printing or other high-footfall purposes.
 
 It should be noted that the racks, air-conditioning, electrical power supplies may all constitute health and safety risks in addition to the security and privacy risks created by allowing untrained, unapproved staff access. New CERs should only be developed in accordance with published standards.
