@@ -42,10 +42,15 @@ The Trust expects that security updates shall be applied, and vulnerabilities ad
 
 It will not be permitted to have infrastructure that has no support from the manufacturer, vendor or an appointed third party.
 
+## All physical infrastructure and hardware must be type-approved
+
+From 1st July 2025, no new type of physical infrastructure or hardware may be connected to any Dorset HealthCare network without type approval from the infrastructure technical design authority (TDA). Type approval may be requested through the usual digital change request process. Budget managers should avoid the purchase or letting of physical infrastructure or hardware that is not type approved as a connection may not be approved. [Read more about type approval here](./physical/type-approval.md).
+
 ## Other Standards
 
-* [Hosting standard](https://github.com/digitaldhc/dhc-it-standards/tree/main/Infrastructure/hosting)
+* [Hosting standard](../Infrastructure/hosting/)
 * Cloud Infrastructure
-* [Physical Infrastructure (on-premise, data-centre)](https://github.com/digitaldhc/dhc-it-standards/blob/main/Infrastructure/physical/readme.md)
+* [Physical Infrastructure (on-premise, data-centre)](./physical/)
+* [Physical infrastructure (type approval)](./physical/type-approval.md)
 * Data cabling
 * Network Infrastructure

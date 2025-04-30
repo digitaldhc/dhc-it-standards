@@ -1,6 +1,6 @@
 # Email integration
 
-All email integrations must be appropriately documented both in the context of the application but also the context of the organisation's wider digital architecture. Undocumented interfaces may be interrupted or switched off at any time.
+All email integrations must be appropriately documented both in the context of the application but also the context of the organisation's wider digital architecture. Undocumented interfaces may be interrupted or turned off at any time.
 
 ## Sending of email
 
