@@ -6,7 +6,7 @@ This guidance is based on material originally developed by the [Ministry of Just
 
 ## Overview
 
-There are a great many innovative and easy to use tools, systems and services available on the internet, often for free or for an affordable price. This page tells you about the tools you can and cannot use for official purposes. This guidance applies to all staff who work for Dorset HealthCare or use Dorset HealthCare devices.
+There are a great many innovative and easy to use tools, systems and services available on the internet, often for free or for an affordable price. This page tells you about the tools you can and cannot use for official purposes. This guidance applies to all staff who work for Dorset HealthCare or use Dorset HealthCare devices. The use of software in contravention of this guidance may leave you subject to disciplinary action.
 
 ## Corporate collaboration tools
 
@@ -33,7 +33,9 @@ The following tools are known to be in use within the organisation and have taci
 | Slack          | Collaboration and communication tool  | No personal or sensitive data, to be used for external collaboration only when accessing the Slack workspaces of others. Microsoft Teams is available to all Dorset HealthCare staff and is suitable for most purposes | Web browser          | External |
 | Zoom           | Video conferencing                    | No personal or sensitive data, to be used for external collaboration only when joining the Zoom calls of others                                                                                                        | Web browser          | External |
 
-## Non-approved tools
+## Non-approved or prohibited tools
+
+These tools may not be used for any official purpose or on any Dorset HealthCare device.
 
 | Name       | Type of tool      | Conditions or constraints                                                                 |
 | ---------- | ----------------- | ----------------------------------------------------------------------------------------- |
