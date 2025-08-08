@@ -10,17 +10,14 @@ Our standards are built to relate to the operational requirements of the organis
 
 The list of currently published standards is as follows:
 
-* Applications
-    * [Email integration](./applications/email-integration.md)
-* Identity
-    * [Identity](./identity/)
-* Infrastructure
-    * [Common infrastructure standards](./Infrastructure/)
-    * [Hosting standard](./Infrastructure/hosting/)
-    * [Physical infrastructure standards (datacentre and on-prem)](./Infrastructure/physical/)
-    * [Physical infrastructure standards (hardware type approval)](./Infrastructure/physical/type-approval.md)
-* Security
-    * [Cloud applications and services guidance](./security/cloud-tools.MD)
+* [IS001 - Common infrastructure standard](./standards/IS001-common-infrastructure-standard.md)
+* [IS002 - Physical infrastructure standard](./standards/IS002-physical-infrastructure-standard.md)
+* [IS003 - Workload hosting standard](./standards/IS003-workload-hosting-standard.md)
+* [IS004 - Identity at Dorset HealthCare](./standards/IS004-identity-at-dorset-healthcare.md)
+* [IS005 - Cloud and internet tools](./standards/IS005-cloud-tools.MD)
+* [IS006 - Email integration](./standards/IS006-email-integration.md)
+* [IS007 - Hardware type approval](./standards/IS007-hardware-type-approval.md)
+* [IS008 - QR codes (in progress)](./standards/IS008-qr-codes.MD)
 
 ## How to contribute
 
